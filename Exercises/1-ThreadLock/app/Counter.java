@@ -1,6 +1,5 @@
-/**
- * Counter
- */
+package app;
+
 public class Counter {
 
     private int counter;
